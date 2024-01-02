@@ -1,0 +1,14 @@
+numpy
+matplotlib
+scipy
+pylab
+sys
+urllib
+healpy
+astropy
+math
+IPython.display
+
+# this one is not that standard https://camb.readthedocs.io/en/latest/
+camb  
+
